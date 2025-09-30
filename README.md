@@ -17,13 +17,12 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 📣 Recently developed a Chrome extension using OpenAI API and open to similar work.
-- 🔭 I’m currently working on [Directorist](https://directorist.com/) & [HelpGent](https://wpwax.com/helpgent).
-- 🌱 Proactively learning React.
-- 🤔 I’m looking for help with Unit testing, TDD, Design pattern.
+- 📣 Recently developed some bespoke solutions based on OpenAI API!
+- 🔭 Core developer of [Directorist](https://directorist.com/) & [Happy Elementor Addons]([https://wpwax.com/helpgent](https://wordpress.org/plugins/happy-elementor-addons/)).
+- 💯 I think I'm obsessed with Coding Standard!
 - 💬 Ask me about WordPress.
 - 📫 How to reach me: [obiplabon.com](https:://obiplabon.com/contact/)
-- ⚡ Fun fact: I'm funny!
+- ⚡ Fun fact: 😂
 
 ### Where to find me
 
