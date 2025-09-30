@@ -18,7 +18,7 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 - 📣 Recently developed some bespoke solutions based on OpenAI API!
-- 🔭 Core developer of [Directorist](https://directorist.com/) & [Happy Elementor Addons]([https://wpwax.com/helpgent](https://wordpress.org/plugins/happy-elementor-addons/).
+- 🔭 Core developer of [Directorist](https://directorist.com/) & [Happy Elementor Addons](https://wordpress.org/plugins/happy-elementor-addons/).
 - 💯 I think I'm obsessed with Coding Standard!
 - 💬 Ask me about WordPress.
 - 📫 How to reach me: [obiplabon.com](https:://obiplabon.com/contact/)
